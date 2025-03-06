@@ -1,0 +1,3 @@
+python
+gymnasium
+stable_baseline3
